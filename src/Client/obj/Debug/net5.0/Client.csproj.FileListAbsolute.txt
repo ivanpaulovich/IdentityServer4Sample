@@ -1,0 +1,15 @@
+/Users/ivanpaulovich/git/quickstart/src/Client/obj/Debug/net5.0/Client.csprojAssemblyReference.cache
+/Users/ivanpaulovich/git/quickstart/src/Client/obj/Debug/net5.0/Client.AssemblyInfoInputs.cache
+/Users/ivanpaulovich/git/quickstart/src/Client/obj/Debug/net5.0/Client.AssemblyInfo.cs
+/Users/ivanpaulovich/git/quickstart/src/Client/obj/Debug/net5.0/Client.csproj.CoreCompileInputs.cache
+/Users/ivanpaulovich/git/quickstart/src/Client/bin/Debug/net5.0/Client.deps.json
+/Users/ivanpaulovich/git/quickstart/src/Client/bin/Debug/net5.0/Client.runtimeconfig.json
+/Users/ivanpaulovich/git/quickstart/src/Client/bin/Debug/net5.0/Client.runtimeconfig.dev.json
+/Users/ivanpaulovich/git/quickstart/src/Client/bin/Debug/net5.0/Client.dll
+/Users/ivanpaulovich/git/quickstart/src/Client/bin/Debug/net5.0/Client.pdb
+/Users/ivanpaulovich/git/quickstart/src/Client/bin/Debug/net5.0/IdentityModel.dll
+/Users/ivanpaulovich/git/quickstart/src/Client/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/ivanpaulovich/git/quickstart/src/Client/obj/Debug/net5.0/Client.csproj.CopyComplete
+/Users/ivanpaulovich/git/quickstart/src/Client/obj/Debug/net5.0/Client.dll
+/Users/ivanpaulovich/git/quickstart/src/Client/obj/Debug/net5.0/Client.pdb
+/Users/ivanpaulovich/git/quickstart/src/Client/obj/Debug/net5.0/Client.genruntimeconfig.cache

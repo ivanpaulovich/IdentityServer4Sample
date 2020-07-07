@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KExI+Ao27Qd4jdea25gAAYluW1lHnHLUovEH+mqTSOvEQs9sSVsolX0DOie33qeZO6SL2Wj+kgCFMUlAmpBFGQ==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpaulovich/git/quickstart/src/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpaulovich/.nuget/packages/identitymodel/4.3.0/identitymodel.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/ivanpaulovich/.nuget/packages/system.text.encodings.web/4.7.0/system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
