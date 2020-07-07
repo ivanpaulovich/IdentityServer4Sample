@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SVjuKi8sYydJQPpHESqmi5SG0W0xm0vr4WoFoZ1vo+kdo96HJ+T36TC0ILO5Kh6LrOdD2XZ/Vi3FOOEASfC7jA==",
+  "dgSpecHash": "6uEe3/bt1QRV3Olvbkv9QzXG+Qu0kzer8vFXAfRJAanRYtxuh4E17x189fXyax/0womCb7PGF0pNHPOJjRc7UQ==",
   "success": true,
-  "projectFilePath": "/Users/ivanpaulovich/git/quickstart/src/IdentityServer/IdentityServer.csproj",
+  "projectFilePath": "/Users/ivanpaulovich/git/IdentityServer4Sample/src/IdentityServer/IdentityServer.csproj",
   "expectedPackageFiles": [
     "/Users/ivanpaulovich/.nuget/packages/identitymodel/4.3.0/identitymodel.4.3.0.nupkg.sha512",
     "/Users/ivanpaulovich/.nuget/packages/identityserver4/4.0.0/identityserver4.4.0.0.nupkg.sha512",

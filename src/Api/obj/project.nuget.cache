@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kbJd/5lbhUozJBzLr9MGZA7ortKBlEPSEsI7dUmGPYo1/dj/vFUiwfliKGUvd4zwWj1rgDJ566uVOmJlsin/LQ==",
+  "dgSpecHash": "EJAoW2ho/ysFaKss/2l+avRgbC5ZiziL6x5Q+s9HABwRb3Ym0EmDhR6u0Yp5t39dOXxluQa/cpSpQ5u3RzySIw==",
   "success": true,
-  "projectFilePath": "/Users/ivanpaulovich/git/quickstart/src/Api/Api.csproj",
+  "projectFilePath": "/Users/ivanpaulovich/git/IdentityServer4Sample/src/Api/Api.csproj",
   "expectedPackageFiles": [
     "/Users/ivanpaulovich/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/3.1.5/microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",

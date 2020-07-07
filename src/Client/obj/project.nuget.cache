@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KExI+Ao27Qd4jdea25gAAYluW1lHnHLUovEH+mqTSOvEQs9sSVsolX0DOie33qeZO6SL2Wj+kgCFMUlAmpBFGQ==",
+  "dgSpecHash": "o1P1X7mt4YKaAnt9FDy53in7SptoVwWi8V+WilwtcFzoPDQOFlXSu1o0CnIi6sNr8tQNjZww8cUPGpilcmoxNg==",
   "success": true,
-  "projectFilePath": "/Users/ivanpaulovich/git/quickstart/src/Client/Client.csproj",
+  "projectFilePath": "/Users/ivanpaulovich/git/IdentityServer4Sample/src/Client/Client.csproj",
   "expectedPackageFiles": [
     "/Users/ivanpaulovich/.nuget/packages/identitymodel/4.3.0/identitymodel.4.3.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivanpaulovich/git/quickstart/src/IdentityServer/IdentityServer.csproj": {}
+    "/Users/ivanpaulovich/git/IdentityServer4Sample/src/IdentityServer/IdentityServer.csproj": {}
   },
   "projects": {
-    "/Users/ivanpaulovich/git/quickstart/src/IdentityServer/IdentityServer.csproj": {
+    "/Users/ivanpaulovich/git/IdentityServer4Sample/src/IdentityServer/IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivanpaulovich/git/quickstart/src/IdentityServer/IdentityServer.csproj",
+        "projectUniqueName": "/Users/ivanpaulovich/git/IdentityServer4Sample/src/IdentityServer/IdentityServer.csproj",
         "projectName": "IdentityServer",
-        "projectPath": "/Users/ivanpaulovich/git/quickstart/src/IdentityServer/IdentityServer.csproj",
+        "projectPath": "/Users/ivanpaulovich/git/IdentityServer4Sample/src/IdentityServer/IdentityServer.csproj",
         "packagesPath": "/Users/ivanpaulovich/.nuget/packages/",
-        "outputPath": "/Users/ivanpaulovich/git/quickstart/src/IdentityServer/obj/",
+        "outputPath": "/Users/ivanpaulovich/git/IdentityServer4Sample/src/IdentityServer/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

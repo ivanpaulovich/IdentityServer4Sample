@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivanpaulovich/git/quickstart/src/Client/Client.csproj": {}
+    "/Users/ivanpaulovich/git/IdentityServer4Sample/src/Client/Client.csproj": {}
   },
   "projects": {
-    "/Users/ivanpaulovich/git/quickstart/src/Client/Client.csproj": {
+    "/Users/ivanpaulovich/git/IdentityServer4Sample/src/Client/Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivanpaulovich/git/quickstart/src/Client/Client.csproj",
+        "projectUniqueName": "/Users/ivanpaulovich/git/IdentityServer4Sample/src/Client/Client.csproj",
         "projectName": "Client",
-        "projectPath": "/Users/ivanpaulovich/git/quickstart/src/Client/Client.csproj",
+        "projectPath": "/Users/ivanpaulovich/git/IdentityServer4Sample/src/Client/Client.csproj",
         "packagesPath": "/Users/ivanpaulovich/.nuget/packages/",
-        "outputPath": "/Users/ivanpaulovich/git/quickstart/src/Client/obj/",
+        "outputPath": "/Users/ivanpaulovich/git/IdentityServer4Sample/src/Client/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
